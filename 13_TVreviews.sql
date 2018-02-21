@@ -1,3 +1,5 @@
+-- A PRACTICE OF JOIN OF 3 TABLES 
+
 CREATE TABLE reviewers (
     id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(100),
